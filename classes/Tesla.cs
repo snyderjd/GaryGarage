@@ -2,7 +2,7 @@ using System;
 
 namespace GaryGarage
 {
-    public class Tesla : Vehicle
+    public class Tesla : Vehicle, IElectricVehicle
     {  // Electric car
         public double BatteryKWh { get; set; }
 
@@ -21,6 +21,11 @@ namespace GaryGarage
         public override void Stop()
         {
             Console.WriteLine($"The {MainColor} Tesla stopped.");
+        }
+
+        public void RechargeBattery()
+        {
+            Console.WriteLine("The Tesla has been recharged!");
         }
     }
 }

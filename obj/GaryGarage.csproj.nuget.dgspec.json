@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/snyderjosephd/nss/workspace/csharp/exercises/GaryGarage/GaryGarage.csproj": {}
+    "/home/snyderjosephd/nss/workspace/csharp/exercises/Book1/GaryGarage/GaryGarage.csproj": {}
   },
   "projects": {
-    "/home/snyderjosephd/nss/workspace/csharp/exercises/GaryGarage/GaryGarage.csproj": {
+    "/home/snyderjosephd/nss/workspace/csharp/exercises/Book1/GaryGarage/GaryGarage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/snyderjosephd/nss/workspace/csharp/exercises/GaryGarage/GaryGarage.csproj",
+        "projectUniqueName": "/home/snyderjosephd/nss/workspace/csharp/exercises/Book1/GaryGarage/GaryGarage.csproj",
         "projectName": "GaryGarage",
-        "projectPath": "/home/snyderjosephd/nss/workspace/csharp/exercises/GaryGarage/GaryGarage.csproj",
+        "projectPath": "/home/snyderjosephd/nss/workspace/csharp/exercises/Book1/GaryGarage/GaryGarage.csproj",
         "packagesPath": "/home/snyderjosephd/.nuget/packages/",
-        "outputPath": "/home/snyderjosephd/nss/workspace/csharp/exercises/GaryGarage/obj/",
+        "outputPath": "/home/snyderjosephd/nss/workspace/csharp/exercises/Book1/GaryGarage/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/snyderjosephd/.nuget/NuGet/NuGet.Config"
